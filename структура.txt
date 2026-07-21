@@ -1,0 +1,42 @@
+warehouse-system/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── components/
+│   ├── pages/
+│   ├── layouts/
+│   ├── hooks/
+│   ├── store/
+│   ├── services/
+│   ├── styles/
+│   └── types/
+│
+├── backend/
+│   ├── src/
+│   │
+│   ├── auth/
+│   ├── users/
+│   ├── warehouses/
+│   ├── items/
+│   ├── suppliers/
+│   ├── clients/
+│   ├── inventory/
+│   ├── reports/
+│   ├── notifications/
+│   ├── common/
+│   └── prisma/
+│
+├── database/
+│
+├── docker/
+│
+├── nginx/
+│
+├── docs/
+│
+├── scripts/
+│
+├── docker-compose.yml
+│
+└── README.md
